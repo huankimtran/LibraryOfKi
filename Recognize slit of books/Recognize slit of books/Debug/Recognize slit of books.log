@@ -1,0 +1,26 @@
+﻿Build started 8/16/2014 12:15:18 PM.
+     1>Project "C:\Users\TranKim\Documents\Visual Studio 2012\Projects\Library of Ki\Recognize slit of books\Recognize slit of books\Recognize slit of books\Recognize slit of books.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\phan mem\laptrinh\VC express 2012\Program\VC\bin\CL.exe /c /I"D:\phan mem\laptrinh\library\OpenCV\opencv\build\\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "Recognize slit of books.cpp" ham_hoat_dong.cpp
+         ham_hoat_dong.cpp
+     1>c:\users\trankim\documents\visual studio 2012\projects\library of ki\recognize slit of books\recognize slit of books\recognize slit of books\ham_hoat_dong.cpp(1): error C2146: syntax error : missing ';' before identifier 'FindConnectedCamera'
+     1>c:\users\trankim\documents\visual studio 2012\projects\library of ki\recognize slit of books\recognize slit of books\recognize slit of books\ham_hoat_dong.cpp(1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\trankim\documents\visual studio 2012\projects\library of ki\recognize slit of books\recognize slit of books\recognize slit of books\ham_hoat_dong.cpp(2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\trankim\documents\visual studio 2012\projects\library of ki\recognize slit of books\recognize slit of books\recognize slit of books\ham_hoat_dong.cpp(3): error C2146: syntax error : missing ';' before identifier 'buff'
+     1>c:\users\trankim\documents\visual studio 2012\projects\library of ki\recognize slit of books\recognize slit of books\recognize slit of books\ham_hoat_dong.cpp(3): error C2065: 'CAM_ID' : undeclared identifier
+     1>c:\users\trankim\documents\visual studio 2012\projects\library of ki\recognize slit of books\recognize slit of books\recognize slit of books\ham_hoat_dong.cpp(3): error C3861: 'buff': identifier not found
+     1>c:\users\trankim\documents\visual studio 2012\projects\library of ki\recognize slit of books\recognize slit of books\recognize slit of books\ham_hoat_dong.cpp(4): error C2065: 'buff' : undeclared identifier
+     1>c:\users\trankim\documents\visual studio 2012\projects\library of ki\recognize slit of books\recognize slit of books\recognize slit of books\ham_hoat_dong.cpp(4): error C2228: left of '.isOpened' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\trankim\documents\visual studio 2012\projects\library of ki\recognize slit of books\recognize slit of books\recognize slit of books\ham_hoat_dong.cpp(4): error C2065: 'cout' : undeclared identifier
+     1>c:\users\trankim\documents\visual studio 2012\projects\library of ki\recognize slit of books\recognize slit of books\recognize slit of books\ham_hoat_dong.cpp(4): error C2065: 'endl' : undeclared identifier
+     1>c:\users\trankim\documents\visual studio 2012\projects\library of ki\recognize slit of books\recognize slit of books\recognize slit of books\ham_hoat_dong.cpp(4): error C2065: 'NULL' : undeclared identifier
+     1>c:\users\trankim\documents\visual studio 2012\projects\library of ki\recognize slit of books\recognize slit of books\recognize slit of books\ham_hoat_dong.cpp(5): error C2065: 'buff' : undeclared identifier
+         Recognize slit of books.cpp
+     1>c:\users\trankim\documents\visual studio 2012\projects\library of ki\recognize slit of books\recognize slit of books\recognize slit of books\thuvien.h(4): fatal error C1014: too many include files : depth = 1024
+         Generating Code...
+     1>Done Building Project "C:\Users\TranKim\Documents\Visual Studio 2012\Projects\Library of Ki\Recognize slit of books\Recognize slit of books\Recognize slit of books\Recognize slit of books.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:19.00

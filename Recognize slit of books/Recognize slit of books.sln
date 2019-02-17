@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Recognize slit of books", "Recognize slit of books\Recognize slit of books.vcxproj", "{F7BFBFD3-ABDD-4C90-BB6A-D2F134E4DB81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7BFBFD3-ABDD-4C90-BB6A-D2F134E4DB81}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F7BFBFD3-ABDD-4C90-BB6A-D2F134E4DB81}.Debug|Win32.Build.0 = Debug|Win32
+		{F7BFBFD3-ABDD-4C90-BB6A-D2F134E4DB81}.Release|Win32.ActiveCfg = Release|Win32
+		{F7BFBFD3-ABDD-4C90-BB6A-D2F134E4DB81}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
